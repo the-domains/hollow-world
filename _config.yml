@@ -1,0 +1,28 @@
+name: 'Hollow World '
+favicon: null
+layout_spectrum: 0.5391660132445395
+typography_spectrum: 0.10277429432608187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.028979503316804767
+  lightness: 0.5151672186329961
+  saturation: 0.3801611550152302
+  rhythmicContrast: 0.7611071201972663
+purpose: []
