@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - gear
   - cobus
 description: 'Comprised of footage taken across our 2015 Australian tour. http://hollowworld.bandcamp.com/ www.facebook.com/hollowworldband'
-datePublished: '2016-01-04T02:00:41.395Z'
-dateModified: '2016-01-04T01:55:20.703Z'
+datePublished: '2016-01-04T02:05:18.665Z'
+dateModified: '2016-01-04T02:04:25.645Z'
 author:
   - name: Hollowworldband
     url: 'https://www.youtube.com/user/Hollowworldband'
@@ -35,14 +35,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=yi3DpK3NwuI&feature=applinks'
     type: web
 title: Hollow World - Silence (live video)
+sourcePath: _posts/2016-01-04-hollow-world-silence-live-video.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-04-hollow-world-silence-live-video.md
-published: true
 url: hollow-world-silence-live-video/index.html
 _type: VideoObject
 _context: 'http://schema.org'
