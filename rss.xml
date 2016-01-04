@@ -4,7 +4,7 @@
         <description><![CDATA[Hollow World ]]></description>
         <link>https://thegrid.ai/hollow-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 01:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 02:05:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hollow-world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is the home ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/hollow-world/this-is-the-home/index.html</link>
             <guid isPermaLink="false">6f08755b-ae54-480c-828a-a0df89655250</guid>
             <pubDate>Mon, 04 Jan 2016 01:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Title]]></title>
+            <description><![CDATA[<article><h1>Title</h1><p>Description</p></article>]]></description>
+            <link>https://thegrid.ai/hollow-world/title/index.html</link>
+            <guid isPermaLink="false">30473d00-e245-4acb-b613-245fbe0c679a</guid>
+            <pubDate>Mon, 04 Jan 2016 02:05:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
