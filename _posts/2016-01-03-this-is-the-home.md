@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T01:41:21.817Z'
-dateModified: '2016-01-03T22:54:03.811Z'
+datePublished: '2016-01-04T02:23:05.424Z'
+dateModified: '2016-01-04T02:22:50.189Z'
 title: 'This is the home '
 author: []
 sourcePath: _posts/2016-01-03-this-is-the-home.md
