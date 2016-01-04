@@ -1,7 +1,7 @@
 name: 'Hollow World '
 favicon: null
 layout_spectrum: 0.5391660132445395
-typography_spectrum: 0.10277429432608187
+typography_spectrum: 0.30649
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#d7d7d7'
     - '#7fb4a0'
   brandStrength: 0
-  lightness: 0.5151672186329961
-  saturation: 0.3801611550152302
-  rhythmicContrast: 0.7611071201972663
+  lightness: 0.4375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
