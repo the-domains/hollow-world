@@ -16,8 +16,8 @@ keywords:
   - gear
   - cobus
 description: 'Comprised of footage taken across our 2015 Australian tour. http://hollowworld.bandcamp.com/ www.facebook.com/hollowworldband'
-datePublished: '2016-01-04T02:05:18.665Z'
-dateModified: '2016-01-04T02:04:25.645Z'
+datePublished: '2016-01-04T02:23:14.913Z'
+dateModified: '2016-01-04T02:22:48.957Z'
 author:
   - name: Hollowworldband
     url: 'https://www.youtube.com/user/Hollowworldband'
